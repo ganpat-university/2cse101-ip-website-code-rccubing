@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>F2L</title>
+</head>
+<body>
+<h1>F2L Documentation</h1>
+<p>A brief introduction about F2l…
+
+It is a part of CFOP which is a speed solving method used by majority of speed cubers around the globe. The desired output after F2L is you get your first and second layers solved simultaneously.
+</p>
+</body>
+</html>
